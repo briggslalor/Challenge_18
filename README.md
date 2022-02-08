@@ -7,7 +7,7 @@ The goal of this project was to build and test an instance of a blockchain using
 
 ## Technologies
 
-This project is built in Python 3.6 and designed to be using the command line. In order to properly utilize the project, the following Python libraries will be imported and used:
+This project is built in Python 3.6 and designed to be run using the command line. In order to properly utilize the project, the following Python libraries will be imported and used:
 
    [pandas](https://pandas.pydata.org/docs/)
 
