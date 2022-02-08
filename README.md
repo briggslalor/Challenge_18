@@ -1,4 +1,4 @@
-# Challnge_18
+# Challenge_18
 # Building a Blockchain Using Python
 
 The goal of this project was to build and test an instance of a blockchain using Python and Streamlit. This blockchain was built to store transactional data for sending a specified amount between two parties. The bolckchain uses hashing and proof of work to ensure its validity. Additionally, a Streamlit application was built to allow users a more friendly experience with which to interact with the blockchain. 
